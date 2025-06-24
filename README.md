@@ -7,3 +7,7 @@ Materi yang dipelajari :
 - Ukuran Pusat
 - Ukuran Sebaran
 - Korelasi
+- Data Visualisasi
+- Transformasi Data
+- Data Visualisasi Part 2
+- Regresi Linier Sederhana
